@@ -1,4 +1,6 @@
-# v1.7.0 (Latest)
+# v1.7.1 (Latest)
+- Fixed Dependency script.
+# v1.7.0
 **Feature Changes**
 - Added Russian Translation by **Daurik_**
 - Added Japanese Translation by **akinasu666** [#8](https://github.com/GalacticMoblin/Moblin.Archon/pull/8)

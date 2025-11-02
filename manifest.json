@@ -1,10 +1,10 @@
 {
     "name": "MoblinArchon",
-    "version_number": "1.7.0",
+    "version_number": "1.7.1",
     "website_url": "https://github.com/GalacticMoblin/Moblin.Archon",
     "description": "Implements the custom Archon Titan based off of cut content.",
     "dependencies": [
-	"northstar-Northstar-1.30.1",
+	"northstar-Northstar-1.31.3",
 	"The_Peepeepoopoo_man-Titanframework-2.4.3"
     ]
 }
